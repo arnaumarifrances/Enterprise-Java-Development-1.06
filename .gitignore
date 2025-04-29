@@ -1,0 +1,16 @@
+# Ignorar archivos compilados
+*.class
+
+# Ignorar archivo de salida
+employees.txt
+
+# Ignorar carpetas de IDEs
+/.idea/
+/*.iml
+/.vscode/
+/target/
+/bin/
+
+# Ignorar sistema operativo
+.DS_Store
+Thumbs.db
