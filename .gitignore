@@ -14,3 +14,5 @@ employees.txt
 # Ignorar sistema operativo
 .DS_Store
 Thumbs.db
+.idea/
+*.iml
